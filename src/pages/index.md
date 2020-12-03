@@ -2,11 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-<<<<<<< HEAD
     title: This Is A Big Hero Headline?..??
-=======
-    title: This Is A Big Hero Headline?......
->>>>>>> master
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adiaapiscing elit. Nullam a metus
       quis lorem malesuada luctus.
