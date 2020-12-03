@@ -2,9 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline?......
+    title: This Is A Big Hero Headline?..??...
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
+      Lorem ipsum dolor sit amet, consectetur adiaapiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     actions:
       - label: Learn More
